@@ -1,3 +1,0 @@
-# midtest
-hello
-hello  brother
